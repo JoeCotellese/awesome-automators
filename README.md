@@ -1,10 +1,11 @@
 # 
 
-# Mac Apps
+# Applications
 
 ## Text Editors
 
 BBEdit
+Drafts
 
 ## Task Management
 
@@ -22,3 +23,6 @@ Hazel
 
 
 # iOS Apps
+
+## Text Editors
+
