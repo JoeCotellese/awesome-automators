@@ -23,14 +23,14 @@ Let your device do the work for you.
 - [Hazel](https://www.noodlesoft.com/) | macOS
 - [Bunch]() | macOS
 - [Hazel]() | macOS
-- [Launch Center Pro](https://apps.apple.com/us/app/launch-center-pro/id532016360)
+- [Launch Center Pro](https://apps.apple.com/us/app/launch-center-pro/id532016360) | iOS
 - [Home Assistant]() | web macOS iOS
 
 ## Document Management
 
 - Scanner Pro
 - Scan Bar
-- PDF Pen
+- PDF Pen | macOS iOS
 
 ## File Management
 
