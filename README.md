@@ -18,13 +18,13 @@
 
 Let your device do the work for you.
 
-- [Zapier](https://zapier.com)
-- [IFTTT](https://ifttt.com/)
-- [Hazel](https://www.noodlesoft.com/)
-- [Bunch]()
-- [Hazel]()
+- [Zapier](https://zapier.com) | web
+- [IFTTT](https://ifttt.com/) | web
+- [Hazel](https://www.noodlesoft.com/) | macOS
+- [Bunch]() | macOS
+- [Hazel]() | macOS
 - [Launch Center Pro](https://apps.apple.com/us/app/launch-center-pro/id532016360)
-- [Home Assistant]()
+- [Home Assistant]() | web macOS iOS
 
 ## Document Management
 
@@ -38,7 +38,7 @@ Let your device do the work for you.
 
 ## Journaling
 
-- [Day One]()
+- [Day One](https://dayoneapp.com) | macOS iOS
 
 ## Text Editors
 

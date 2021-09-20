@@ -9,7 +9,7 @@ project you agree to abide by its terms.
 Ensure your pull request adheres to the following guidelines:
 
 - Put the application in the right category
-- check your links
+- Include platform (web|iOS|macOS)
 - Add in an episode number if you know it
 
 Thank you for your suggestions!
