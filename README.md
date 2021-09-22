@@ -47,7 +47,7 @@ Let your device do the work for you.
 ## File Management
 
 - [Forklift](https://binarynights.com)
-- [Yoink](https://eternalstorms.at/yoink/mac/index.html) | macOS
+- [Yoink](https://eternalstorms.at/yoink/mac/index.html) |  ![macOS](icons/icons8-mac-client.png)
 
 ## Journaling
 
