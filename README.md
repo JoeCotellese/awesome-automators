@@ -20,22 +20,22 @@ Let your device do the work for you.
 
 - [Zapier](https://zapier.com) | web
 - [IFTTT](https://ifttt.com/) | web
-- [Hazel](https://www.noodlesoft.com/) | macOS
-- [Bunch]() | macOS
-- [Hazel]() | macOS
+- [Hazel](https://www.noodlesoft.com/) | ![macOS](icons/icons8-mac-client.png)
+- [Bunch]() | ![macOS](icons/icons8-mac-client.png)
+- [Hazel]() | ![macOS](icons/icons8-mac-client.png)
 - [Launch Center Pro](https://apps.apple.com/us/app/launch-center-pro/id532016360) | iOS
-- [Home Assistant]() | web macOS iOS
+- [Home Assistant]() | web ![macOS](icons/icons8-mac-client.png) iOS
 
 ## Calculators
 
 - Alfred
-- [P-Calc](https://pcalc.com) | macOS iOS
+- [P-Calc](https://pcalc.com) | ![macOS](icons/icons8-mac-client.png) iOS
 - Solver
 ## Document Management
 
 - Scanner Pro
 - Scan Bar
-- PDF Pen | macOS iOS
+- PDF Pen | ![macOS](icons/icons8-mac-client.png) iOS
 
 ## File Management
 
@@ -44,33 +44,33 @@ Let your device do the work for you.
 
 ## Journaling
 
-- [Day One](https://dayoneapp.com) | macOS iOS
+- [Day One](https://dayoneapp.com) ![macOS](icons/icons8-mac-client.png) ![iOS](icons/icons8-iphone.png)
 
 ## Text Editors
 
 Need to muck about with text? Look here.
 
-- [BBEdit](https://www.barebones.com/products/bbedit/)
+- [BBEdit](https://www.barebones.com/products/bbedit/) ![macOS](icons/icons8-mac-client.png)
 - [Drafts](https://getdrafts.com/)
-- [Obsidian](https://obsidian.md/)
-- [Ulysseus](https://ulysses.app/)
+- [Obsidian](https://obsidian.md/) ![macOS](icons/icons8-mac-client.png)
+- [Ulysseus](https://ulysses.app/) ![macOS](icons/icons8-mac-client.png)
 
 ## Text Expansion
 
 Enter a snippet and it expands to whatever you want.
 
 - Text Expander | Episode 79
-- Rocket | macOS
+- Rocket | ![macOS](icons/icons8-mac-client.png)
 
 ## Note Taking
 
-- [Goodnotes]()
-- [Craft](https://www.craft.do)
-- [Roam](https://roamresearch.com)
+- [Goodnotes]() | ![macOS](icons/icons8-mac-client.png)
+- [Craft](https://www.craft.do) | ![macOS](icons/icons8-mac-client.png)
+- [Roam](https://roamresearch.com) | ![macOS](icons/icons8-mac-client.png)
 
 ## Window Managers
 
-- Moom
+- Moom | ![macOS](icons/icons8-mac-client.png)
 
 ### Miscellaneous
 
@@ -79,12 +79,12 @@ Enter a snippet and it expands to whatever you want.
 - Infused | Episode 79
 - Streaks | Episode 79
 - Fork Lift | Episode 79
-- Keyboard Maestro | | Episode 79
+- Keyboard Maestro | ![macOS](icons/icons8-mac-client.png) | Episode 79 | 
 - Dark Noise | Episode 79
 - Micro.blog | Episode 79
-- Karabiner-Elements | Episode 79
+- Karabiner-Elements | ![macOS](icons/icons8-mac-client.png) | Episode 79
 - Better Touch Tool
 
 ## Contribute
 
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+Contributions welcome but read the [contribution guidelines](contributing.md) first.
