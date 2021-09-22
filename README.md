@@ -1,16 +1,22 @@
 # Awesome Automators [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of applications and tips from the Automators podcast. This list was put together by the AppJawn team - creators of the iOS recipe app [ClipDish](https://getclipdish.com).
+> A curated list of applications and tips from the [Automators](https://automators.fm/) podcast. 
+>
+> This list was put together by the AppJawn team - creators of the iOS recipe app [ClipDish](https://getclipdish.com).
+>
+>Icons provides by [Icons8](https://icons8.com).
 
 
 ## Contents
 
 - [Automation](#automation)
+- [Calculators](#calculators)
 - [Document Management](#document-management)
 - [File Management](#file-management)
 - [Journaling](#journaling)
 - [Note Taking](#note-taking)
 - [Text Editors](#text-editors)
+- [Text Expansion](#text-expansion)
 - [Window Managers](#window-managers)
 - [Miscellaneous](#miscellaneous)
 
@@ -23,14 +29,15 @@ Let your device do the work for you.
 - [Hazel](https://www.noodlesoft.com/) | ![macOS](icons/icons8-mac-client.png)
 - [Bunch]() | ![macOS](icons/icons8-mac-client.png)
 - [Hazel]() | ![macOS](icons/icons8-mac-client.png)
-- [Launch Center Pro](https://apps.apple.com/us/app/launch-center-pro/id532016360) | iOS
-- [Home Assistant]() | web ![macOS](icons/icons8-mac-client.png) iOS
+- [Launch Center Pro](https://apps.apple.com/us/app/launch-center-pro/id532016360) | ![iOS](icons/icons8-iphone.png)
+- [Home Assistant]() | web ![macOS](icons/icons8-mac-client.png) ![iOS](icons/icons8-iphone.png)
+- [Alfred](https://www.alfredapp.com/) - Swiss army knife app could go in multiple categories. |  ![macOS](icons/icons8-mac-client.png)
 
 ## Calculators
 
-- Alfred
-- [P-Calc](https://pcalc.com) | ![macOS](icons/icons8-mac-client.png) iOS
-- Solver
+- [P-Calc](https://pcalc.com) | ![macOS](icons/icons8-mac-client.png) ![iOS](icons/icons8-iphone.png)
+
+
 ## Document Management
 
 - Scanner Pro
@@ -75,7 +82,7 @@ Enter a snippet and it expands to whatever you want.
 ### Miscellaneous
 
 - [Just Press Record]
-- Trak.tv 
+- [Trak.tv](https://trakt.tv) - track what TV and movies you watch 
 - Infused | Episode 79
 - Streaks | Episode 79
 - Fork Lift | Episode 79
