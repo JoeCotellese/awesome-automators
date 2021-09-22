@@ -1,6 +1,6 @@
 # Awesome Automators [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of applications and tips from the Automators podcast. This list was put together by the AppJawn team - creators of the iOS recipe app [ClipDish](https://getclipdish.com)
+> A curated list of applications and tips from the Automators podcast. This list was put together by the AppJawn team - creators of the iOS recipe app [ClipDish](https://getclipdish.com).
 
 
 ## Contents
@@ -26,6 +26,11 @@ Let your device do the work for you.
 - [Launch Center Pro](https://apps.apple.com/us/app/launch-center-pro/id532016360) | iOS
 - [Home Assistant]() | web macOS iOS
 
+## Calculators
+
+- Alfred
+- [P-Calc](https://pcalc.com) | macOS iOS
+- Solver
 ## Document Management
 
 - Scanner Pro
@@ -35,6 +40,7 @@ Let your device do the work for you.
 ## File Management
 
 - [Forklift](https://binarynights.com)
+- [Yoink](https://eternalstorms.at/yoink/mac/index.html) | macOS
 
 ## Journaling
 
@@ -49,10 +55,18 @@ Need to muck about with text? Look here.
 - [Obsidian](https://obsidian.md/)
 - [Ulysseus](https://ulysses.app/)
 
+## Text Expansion
+
+Enter a snippet and it expands to whatever you want.
+
+- Text Expander | Episode 79
+- Rocket | macOS
+
 ## Note Taking
 
 - [Goodnotes]()
-
+- [Craft](https://www.craft.do)
+- [Roam](https://roamresearch.com)
 
 ## Window Managers
 
@@ -60,19 +74,16 @@ Need to muck about with text? Look here.
 
 ### Miscellaneous
 
-- [List item](http://example.com)
-- [List item](http://example.com)
-
 - [Just Press Record]
 - Trak.tv 
 - Infused | Episode 79
-- Text Expander | Episode 79
 - Streaks | Episode 79
 - Fork Lift | Episode 79
 - Keyboard Maestro | | Episode 79
 - Dark Noise | Episode 79
 - Micro.blog | Episode 79
 - Karabiner-Elements | Episode 79
+- Better Touch Tool
 
 ## Contribute
 
