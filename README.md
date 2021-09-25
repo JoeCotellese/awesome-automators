@@ -81,7 +81,7 @@ Enter a snippet and it expands to whatever you want.
 
 ### Miscellaneous
 
-- [Just Press Record](https://www.openplanetsoftware.com/just-press-record/)
+- [Just Press Record](https://www.openplanetsoftware.com/just-press-record/) | ![iOS](icons/icons8-iphone.png)
 - [Trak.tv](https://trakt.tv) - track what TV and movies you watch 
 - Infused | Episode 79
 - [Streaks](https://streaksapp.com) | Episode 79
