@@ -58,9 +58,9 @@ Let your device do the work for you.
 Need to muck about with text? Look here.
 
 - [BBEdit](https://www.barebones.com/products/bbedit/) ![macOS](icons/icons8-mac-client.png)
-- [Drafts](https://getdrafts.com/)
-- [Obsidian](https://obsidian.md/) ![macOS](icons/icons8-mac-client.png)
-- [Ulysses](https://ulysses.app/) ![macOS](icons/icons8-mac-client.png)
+- [Drafts](https://getdrafts.com/) | ![macOS](icons/icons8-mac-client.png) ![iOS](icons/icons8-iphone.png)
+- [Obsidian](https://obsidian.md/) | ![macOS](icons/icons8-mac-client.png)
+- [Ulysses](https://ulysses.app/) | ![macOS](icons/icons8-mac-client.png)
 
 ## Text Expansion
 
@@ -90,7 +90,11 @@ Enter a snippet and it expands to whatever you want.
 - Micro.blog | Episode 79
 - [Karabiner-Elements](https://pqrs.org/osx/karabiner/) | ![macOS](icons/icons8-mac-client.png) | Episode 79
 - [BetterTouchTool](https://folivora.ai)
+- [Clockwise](https://www.getclockwise.com)| ![web](icons/icons8-web-16.png)
+- [Timery](https://timeryapp.com/) - 3rd party front end for Toggl | ![macOS](icons/icons8-mac-client.png) ![iOS](icons/icons8-iphone.png)
+- [Toggl](https://timeryapp.com/) - Time tracking app | ![web](icons/icons8-web-16.png) ![macOS](icons/icons8-mac-client.png) ![iOS](icons/icons8-iphone.png)
 
 ## Contribute
+
 
 Contributions welcome but read the [contribution guidelines](contributing.md) first.
