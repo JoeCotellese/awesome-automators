@@ -47,7 +47,7 @@ Let your device do the work for you.
 
 ## File Management
 
-- [ForkLift](https://binarynights.com) | ![macOS](icons/icons8-mac-client.png) | Episode 79
+- [ForkLift](https://binarynights.com) | ![macOS](icons/icons8-mac-client.png) | Ep. 79
 - [Yoink](https://eternalstorms.at/yoink/mac/index.html) | ![macOS](icons/icons8-mac-client.png)
 
 ## Journaling
@@ -88,16 +88,16 @@ Enter a snippet and it expands to whatever you want.
 
 ### Miscellaneous
 
-- [Just Press Record](https://www.openplanetsoftware.com/just-press-record/) | ![iOS](icons/icons8-iphone.png)
-- [Trak.tv](https://trakt.tv) - track what TV and movies you watch 
-- Infused | Episode 79
-- [Streaks](https://streaksapp.com) | Episode 79
-- [Keyboard Maestro](https://www.keyboardmaestro.com/) | ![macOS](icons/icons8-mac-client.png) | Episode 79 
-- [Dark Noise](https://darknoise.app) | Episode 79
-- Micro.blog | Episode 79
-- [Karabiner-Elements](https://pqrs.org/osx/karabiner/) | ![macOS](icons/icons8-mac-client.png) | Episode 79
 - [BetterTouchTool](https://folivora.ai)
 - [Clockwise](https://www.getclockwise.com)| ![web](icons/icons8-web-16.png)
+- [Dark Noise](https://darknoise.app) | Ep. 79
+- [Just Press Record](https://www.openplanetsoftware.com/just-press-record/) | ![iOS](icons/icons8-iphone.png)
+- [Streaks](https://streaksapp.com) | Ep. 79
+- [Trak.tv](https://trakt.tv) - track what TV and movies you watch 
+- Infused | Ep. 79
+- [Karabiner-Elements](https://pqrs.org/osx/karabiner/) | ![macOS](icons/icons8-mac-client.png) | Ep. 79
+- [Keyboard Maestro](https://www.keyboardmaestro.com/) | ![macOS](icons/icons8-mac-client.png) | Ep. 79 
+- Micro.blog | Ep. 79
 - [Timery](https://timeryapp.com/) - 3rd party front end for Toggl | ![macOS](icons/icons8-mac-client.png) ![iOS](icons/icons8-iphone.png)
 - [Toggl](https://timeryapp.com/) - Time tracking app | ![web](icons/icons8-web-16.png) ![macOS](icons/icons8-mac-client.png) ![iOS](icons/icons8-iphone.png)
 
