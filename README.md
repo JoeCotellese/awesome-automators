@@ -56,6 +56,7 @@ Let your device do the work for you.
 
 ## Shortcuts
 
+- [Bypass](https://www.thoughtasylum.com/alfred/alfred_bypass_for_shortcuts/) - Alfred workflow for Shortcuts | ![macOS](icons/icons8-mac-client.png) | Ep. 98
 - [Logger](https://www.logger.rocks/) - Log text or images to the console and see them appear in realtime, as your shortcut runs. | ![macOS](icons/icons8-mac-client.png) ![iOS](icons/icons8-iphone.png) | Ep. 99
 - [Sharebot](https://apps.apple.com/us/app/sharebot-for-shortcuts/id1597340986) - ShareBot is the missing Share Extension for Shortcuts on macOS. It allows you to run any of your shortcuts on items like files, URLs or text shared from any app with share menu support like Finder, Safari, Twitter or Chrome. | ![macOS](icons/icons8-mac-client.png) | Ep. 99
 
@@ -67,6 +68,7 @@ Need to muck about with text? Look here.
 - [BBEdit](https://www.barebones.com/products/bbedit/) ![macOS](icons/icons8-mac-client.png)
 - [Drafts](https://getdrafts.com/) | ![macOS](icons/icons8-mac-client.png) ![iOS](icons/icons8-iphone.png)
 - [Obsidian](https://obsidian.md/) | ![macOS](icons/icons8-mac-client.png)
+- [Templater](https://github.com/SilentVoid13/Templater) - add templating variables to Obsidian | | Ep. 98
 - [Ulysses](https://ulysses.app/) | ![macOS](icons/icons8-mac-client.png)
 
 ## Text Expansion
