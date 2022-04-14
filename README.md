@@ -105,14 +105,14 @@ Enter a snippet and it expands to whatever you want.
 - [Clockwise](https://www.getclockwise.com)| ![web](icons/icons8-web-16.png)
 - [Dark Noise](https://darknoise.app) | Ep. 79
 - [Just Press Record](https://www.openplanetsoftware.com/just-press-record/) | ![iOS](icons/icons8-iphone.png)
-- [Streaks](https://streaksapp.com) | Ep. 79
-- [Trak.tv](https://trakt.tv) - track what TV and movies you watch 
 - Infused | Ep. 79
 - [Karabiner-Elements](https://pqrs.org/osx/karabiner/) | ![macOS](icons/icons8-mac-client.png) | Ep. 79
 - [Keyboard Maestro](https://www.keyboardmaestro.com/) | ![macOS](icons/icons8-mac-client.png) | Ep. 1, 79 
 - Micro.blog | Ep. 79
+- [Streaks](https://streaksapp.com) | Ep. 79
 - [Timery](https://timeryapp.com/) - 3rd party front end for Toggl | ![macOS](icons/icons8-mac-client.png) ![iOS](icons/icons8-iphone.png)
 - [Toggl](https://timeryapp.com/) - Time tracking app | ![web](icons/icons8-web-16.png) ![macOS](icons/icons8-mac-client.png) ![iOS](icons/icons8-iphone.png)
+- [Trak.tv](https://trakt.tv) - track what TV and movies you watch 
 - [Unclack](https://unclack.app/#/) - mute your mic while you type | ![macOS](icons/icons8-mac-client.png) | Ep. 86
 
 ## Contribute
