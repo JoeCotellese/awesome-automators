@@ -15,6 +15,7 @@
 - [File Management](#file-management)
 - [Journaling](#journaling)
 - [Note Taking](#note-taking)
+- [Task Management](#task-management)
 - [Shortcuts](#shortcuts)
 - [Text Editors](#text-editors)
 - [Text Expansion](#text-expansion)
@@ -28,7 +29,7 @@ Let your device do the work for you.
 - [Alfred](https://www.alfredapp.com/) - Swiss army knife app could go in multiple categories. |  ![macOS](icons/icons8-mac-client.png)
 - [Bunch](https://bunchapp.co) | ![macOS](icons/icons8-mac-client.png)
 - [FastScripts](https://redsweater.com/fastscripts/) - launch automation scripts from the menu bar | ![macOS](icons/icons8-mac-client.png) | Ep. 86
-- [Hazel](https://www.noodlesoft.com) | ![macOS](icons/icons8-mac-client.png) | Ep. 2
+- [Hazel](https://www.noodlesoft.com) | ![macOS](icons/icons8-mac-client.png) | Ep. 2, 4
 - [Home Assistant](https://www.home-assistant.io) | web ![macOS](icons/icons8-mac-client.png) ![iOS](icons/icons8-iphone.png)
 - [IFTTT](https://ifttt.com/) | web | Ep. 1,2
 - [Launch Center Pro](https://apps.apple.com/us/app/launch-center-pro/id532016360) | ![iOS](icons/icons8-iphone.png)
@@ -40,7 +41,7 @@ Let your device do the work for you.
 - [P-Calc](https://pcalc.com) | ![macOS](icons/icons8-mac-client.png) ![iOS](icons/icons8-iphone.png)
 
 ## Calendaring
-- [Fantastical](https://flexibits.com/fantastical) - award winning calendar app | ![macOS](icons/icons8-mac-client.png) ![iOS](icons/icons8-iphone.png) | Ep. 1
+- [Fantastical](https://flexibits.com/fantastical) - award winning calendar app | ![macOS](icons/icons8-mac-client.png) ![iOS](icons/icons8-iphone.png) | Ep. 1, 5
 
 ## Document Management
 
@@ -69,16 +70,21 @@ Let your device do the work for you.
 - [Logger](https://www.logger.rocks/) - Log text or images to the console and see them appear in realtime, as your shortcut runs. | ![macOS](icons/icons8-mac-client.png) ![iOS](icons/icons8-iphone.png) | Ep. 99
 - [Sharebot](https://apps.apple.com/us/app/sharebot-for-shortcuts/id1597340986) - ShareBot is the missing Share Extension for Shortcuts on macOS. It allows you to run any of your shortcuts on items like files, URLs or text shared from any app with share menu support like Finder, Safari, Twitter or Chrome. | ![macOS](icons/icons8-mac-client.png) | Ep. 99
 
+## Task Management
+- [Omnifocus](https://www.omnigroup.com/omnifocus/) - Taskmanager for pros | ![macOS](icons/icons8-mac-client.png) ![iOS](icons/icons8-iphone.png) | Ep. 5
+- [Things](https://culturedcode.com/things/) - award winning personal task manager | ![macOS](icons/icons8-mac-client.png) ![iOS](icons/icons8-iphone.png) | Ep. 5
+- [Todoist](https://todoist.com/) - organize it all | ![macOS](icons/icons8-mac-client.png) ![iOS](icons/icons8-iphone.png) ![web](icons/icons8-web-16.png) | Ep. 5
+- [TripListPro](https://apps.apple.com/us/app/triplist-packing-list-manager/id696726953) - manage your packing lists | ![iOS](icons/icons8-iphone.png) | Ep. 5
 
 ## Text Editors
 
 Need to muck about with text? Look here.
 
 - [BBEdit](https://www.barebones.com/products/bbedit/) ![macOS](icons/icons8-mac-client.png)
-- [Drafts](https://getdrafts.com/) | ![macOS](icons/icons8-mac-client.png) ![iOS](icons/icons8-iphone.png) | Ep. 1, 2
+- [Drafts](https://getdrafts.com/) | ![macOS](icons/icons8-mac-client.png) ![iOS](icons/icons8-iphone.png) | Ep. 1, 2, 5
 - [Obsidian](https://obsidian.md/) | ![macOS](icons/icons8-mac-client.png)
 - [Templater](https://github.com/SilentVoid13/Templater) - add templating variables to Obsidian | ![macOS](icons/icons8-mac-client.png) | Ep. 98
-- [Script Debugger](https://latenightsw.com/) - AppleScript editor and debugger | ![macOS](icons/icons8-mac-client.png) | Ep. 86
+- [Script Debugger](https://latenightsw.com/) - AppleScript editor and debugger | ![macOS](icons/icons8-mac-client.png) | Ep. 3, 86
 - [Ulysses](https://ulysses.app/) | ![macOS](icons/icons8-mac-client.png)
 
 ## Text Expansion
@@ -106,7 +112,7 @@ Enter a snippet and it expands to whatever you want.
 - [Dark Noise](https://darknoise.app) | Ep. 79
 - [Just Press Record](https://www.openplanetsoftware.com/just-press-record/) | ![iOS](icons/icons8-iphone.png)
 - Infused | Ep. 79
-- [Karabiner-Elements](https://pqrs.org/osx/karabiner/) | ![macOS](icons/icons8-mac-client.png) | Ep. 79
+- [Karabiner-Elements](https://pqrs.org/osx/karabiner/) | \ | Ep. 79
 - [Keyboard Maestro](https://www.keyboardmaestro.com/) | ![macOS](icons/icons8-mac-client.png) | Ep. 1, 79 
 - Micro.blog | Ep. 79
 - [Streaks](https://streaksapp.com) | Ep. 79
