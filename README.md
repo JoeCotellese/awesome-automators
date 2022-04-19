@@ -112,7 +112,7 @@ Enter a snippet and it expands to whatever you want.
 - [Dark Noise](https://darknoise.app) | Ep. 79
 - [Just Press Record](https://www.openplanetsoftware.com/just-press-record/) | ![iOS](icons/icons8-iphone.png)
 - Infused | Ep. 79
-- [Karabiner-Elements](https://pqrs.org/osx/karabiner/) | \ | Ep. 79
+- [Karabiner-Elements](https://pqrs.org/osx/karabiner/) | ![macOS](icons/icons8-mac-client.png) | Ep. 79
 - [Keyboard Maestro](https://www.keyboardmaestro.com/) | ![macOS](icons/icons8-mac-client.png) | Ep. 1, 79 
 - Micro.blog | Ep. 79
 - [Streaks](https://streaksapp.com) | Ep. 79
