@@ -100,6 +100,7 @@ Enter a snippet and it expands to whatever you want.
 - [Craft](https://www.craft.do) | ![macOS](icons/icons8-mac-client.png)
 - [GoodNotes](https://www.goodnotes.com) | ![macOS](icons/icons8-mac-client.png)
 - [Roam](https://roamresearch.com) | ![macOS](icons/icons8-mac-client.png)
+- [Notability](https://notability.com) - cross platform note taking app | ![macOS](icons/icons8-mac-client.png) ![iOS](icons/icons8-iphone.png)
 
 ## Window Managers
 
@@ -110,6 +111,7 @@ Enter a snippet and it expands to whatever you want.
 - [BetterTouchTool](https://folivora.ai)
 - [Clockwise](https://www.getclockwise.com)| ![web](icons/icons8-web-16.png)
 - [Dark Noise](https://darknoise.app) | Ep. 79
+- [DataJar](https://datajar.app) - a place for Shortcuts to store and access data across automations. | ![iOS](icons/icons8-iphone.png) | Ep. 110
 - [Just Press Record](https://www.openplanetsoftware.com/just-press-record/) | ![iOS](icons/icons8-iphone.png)
 - Infused | Ep. 79
 - [Karabiner-Elements](https://pqrs.org/osx/karabiner/) | ![macOS](icons/icons8-mac-client.png) | Ep. 79
