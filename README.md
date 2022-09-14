@@ -6,13 +6,13 @@
 >
 >Icons provided by [Icons8](https://icons8.com).
 
-
 ## Contents
 
 - [Automation](#automation)
 - [Calculators](#calculators)
 - [Document Management](#document-management)
 - [File Management](#file-management)
+- [Home Automation](#home-automation)
 - [Journaling](#journaling)
 - [Note Taking](#note-taking)
 - [Task Management](#task-management)
@@ -57,12 +57,17 @@ Let your device do the work for you.
 
 ## File Management
 
+- [Default Folder X](https://stclairsoft.com/DefaultFolderX/) - Open and Save dialog enhancements | ![macOS](icons/icons8-mac-client.png)
 - [ForkLift](https://binarynights.com) | ![macOS](icons/icons8-mac-client.png) | Ep. 79
-- [Yoink](https://eternalstorms.at/yoink/mac/index.html) | ![macOS](icons/icons8-mac-client.png)
+- [Service Station](https://servicestation.menu) - customize your right click menu | ![macOS](icons/icons8-mac-client.png)
+- [Yoink](https://eternalstorms.at/yoink/mac/index.html) - simplify drag and drop | ![macOS](icons/icons8-mac-client.png)
+
+## Home Automation
+- [HomeControl Menu](https://apps.apple.com/us/app/homecontrol-menu-for-homekit/id1547121417) - trigger Home scenes from the menu bar | ![macOS](icons/icons8-mac-client.png)
 
 ## Journaling
 
-- [Day One](https://dayoneapp.com) ![macOS](icons/icons8-mac-client.png) ![iOS](icons/icons8-iphone.png)
+- [Day One](https://dayoneapp.com) - cross-platform jounaling app | ![macOS](icons/icons8-mac-client.png) ![iOS](icons/icons8-iphone.png)
 
 ## Shortcuts
 
