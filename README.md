@@ -74,6 +74,7 @@ Let your device do the work for you.
 - [Bypass](https://www.thoughtasylum.com/alfred/alfred_bypass_for_shortcuts/) - Alfred workflow for Shortcuts | ![macOS](icons/icons8-mac-client.png) | Ep. 98
 - [Logger](https://www.logger.rocks/) - Log text or images to the console and see them appear in realtime, as your shortcut runs. | ![macOS](icons/icons8-mac-client.png) ![iOS](icons/icons8-iphone.png) | Ep. 99
 - [Sharebot](https://apps.apple.com/us/app/sharebot-for-shortcuts/id1597340986) - ShareBot is the missing Share Extension for Shortcuts on macOS. It allows you to run any of your shortcuts on items like files, URLs or text shared from any app with share menu support like Finder, Safari, Twitter or Chrome. | ![macOS](icons/icons8-mac-client.png) | Ep. 99
+- [Toolbox Pro](https://toolboxpro.app) - adds additional automation actions to Shortcuts | ![iOS](icons/icons8-iphone.png)
 
 ## Task Management
 - [Omnifocus](https://www.omnigroup.com/omnifocus/) - Taskmanager for pros | ![macOS](icons/icons8-mac-client.png) ![iOS](icons/icons8-iphone.png) | Ep. 5
