@@ -30,8 +30,8 @@ Let your device do the work for you.
 - [Bunch](https://bunchapp.co) | ![macOS](icons/icons8-mac-client.png)
 - [FastScripts](https://redsweater.com/fastscripts/) - launch automation scripts from the menu bar | ![macOS](icons/icons8-mac-client.png) | Ep. 86
 - [Hazel](https://www.noodlesoft.com) | ![macOS](icons/icons8-mac-client.png) | Ep. 2, 4
-- [Home Assistant](https://www.home-assistant.io) | web ![macOS](icons/icons8-mac-client.png) ![iOS](icons/icons8-iphone.png)
-- [IFTTT](https://ifttt.com/) | web | Ep. 1,2
+- [Home Assistant](https://www.home-assistant.io) | ![web](icons/icons8-web-16.png) ![macOS](icons/icons8-mac-client.png) ![iOS](icons/icons8-iphone.png)
+- [IFTTT](https://ifttt.com/) | ![web](icons/icons8-web-16.png) | Ep. 1,2
 - [Launch Center Pro](https://apps.apple.com/us/app/launch-center-pro/id532016360) | ![iOS](icons/icons8-iphone.png)
 - [Raycast](https://www.raycast.com/) - Raycast is a blazingly fast, totally extendable launcher. It lets you complete tasks, calculate, share common links, and much more. | ![macOS](icons/icons8-mac-client.png) | Ep. 99
 - [Zapier](https://zapier.com) - the easiest way to automate your work | web | Ep. 2
