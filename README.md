@@ -102,14 +102,13 @@ Enter a snippet and it expands to whatever you want.
 - [PopClip](https://pilotmoon.com/popclip/) - extensable tool for manipulating highlighted text | ![macOS](icons/icons8-mac-client.png) | Ep. 86
 
 ## Note Taking
-
+- [Agenda](https://agenda.com) - date focused note taking app | ![macOS](icons/icons8-mac-client.png) ![iOS](icons/icons8-iphone.png) | Ep. 112
 - [Craft](https://www.craft.do) | ![macOS](icons/icons8-mac-client.png)
 - [GoodNotes](https://www.goodnotes.com) | ![macOS](icons/icons8-mac-client.png)
 - [Roam](https://roamresearch.com) | ![macOS](icons/icons8-mac-client.png)
 - [Notability](https://notability.com) - cross platform note taking app | ![macOS](icons/icons8-mac-client.png) ![iOS](icons/icons8-iphone.png)
 
 ## Window Managers
-
 - [Moom](https://manytricks.com/moom/) | ![macOS](icons/icons8-mac-client.png)
 
 ### Miscellaneous
@@ -123,6 +122,7 @@ Enter a snippet and it expands to whatever you want.
 - [Karabiner-Elements](https://pqrs.org/osx/karabiner/) | ![macOS](icons/icons8-mac-client.png) | Ep. 79
 - [Keyboard Maestro](https://www.keyboardmaestro.com/) | ![macOS](icons/icons8-mac-client.png) | Ep. 1, 79 
 - [Micro.blog](https://micro.blog) - short form blogging platform | Ep. 79
+- [Noir](https://getnoir.app) - dark mode for Safari | 
 - [Patterns](https://krillapps.com/patterns/) - the ultimate tool for working with regular expressions | ![macOS](icons/icons8-mac-client.png) | Ep. 96
 - [Streaks](https://streaksapp.com) | Ep. 79
 - [Timery](https://timeryapp.com/) - 3rd party front end for Toggl | ![macOS](icons/icons8-mac-client.png) ![iOS](icons/icons8-iphone.png)
@@ -133,6 +133,7 @@ Enter a snippet and it expands to whatever you want.
 ### Hardware
 
 [FriXion Pens](https://www.pilotpen.us/categories/frixion-erasable-ink-pens/) - Erasable ink pens. | Ep. 96
+[Oura](https://ouraring.com/product/horizon-silver) - the most advanced, accurate smart ring available. | Ep. 112
 [Rocket Notebook](https://getrocketbook.com/collections/notebooks) - reusable notebooks | Ep. 96
 [Stream Deck](https://www.elgato.com/en/stream-deck) - customizable keypad lets you create and trigger shortcut and automations
 
