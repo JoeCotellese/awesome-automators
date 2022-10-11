@@ -122,12 +122,19 @@ Enter a snippet and it expands to whatever you want.
 - Infused | Ep. 79
 - [Karabiner-Elements](https://pqrs.org/osx/karabiner/) | ![macOS](icons/icons8-mac-client.png) | Ep. 79
 - [Keyboard Maestro](https://www.keyboardmaestro.com/) | ![macOS](icons/icons8-mac-client.png) | Ep. 1, 79 
-- Micro.blog | Ep. 79
+- [Micro.blog](https://micro.blog) - short form blogging platform | Ep. 79
+- [Patterns](https://krillapps.com/patterns/) - the ultimate tool for working with regular expressions | ![macOS](icons/icons8-mac-client.png) | Ep. 96
 - [Streaks](https://streaksapp.com) | Ep. 79
 - [Timery](https://timeryapp.com/) - 3rd party front end for Toggl | ![macOS](icons/icons8-mac-client.png) ![iOS](icons/icons8-iphone.png)
 - [Toggl](https://timeryapp.com/) - Time tracking app | ![web](icons/icons8-web-16.png) ![macOS](icons/icons8-mac-client.png) ![iOS](icons/icons8-iphone.png)
 - [Trak.tv](https://trakt.tv) - track what TV and movies you watch 
 - [Unclack](https://unclack.app/#/) - mute your mic while you type | ![macOS](icons/icons8-mac-client.png) | Ep. 86
+
+### Hardware
+
+[FriXion Pens](https://www.pilotpen.us/categories/frixion-erasable-ink-pens/) - Erasable ink pens. | Ep. 96
+[Rocket Notebook](https://getrocketbook.com/collections/notebooks) - reusable notebooks | Ep. 96
+[Stream Deck](https://www.elgato.com/en/stream-deck) - customizable keypad lets you create and trigger shortcut and automations
 
 ## Contribute
 
