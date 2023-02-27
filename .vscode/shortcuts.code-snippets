@@ -26,5 +26,12 @@
 		"prefix": "!ios",
 		"body": "![iOS](icons/icons8-iphone.png)",
 		"description": "add macOS icon to file"		
+	},
+	"web icon": {
+		"scope": "markdown",
+		"prefix": "!web",
+		"body": "![web](icons/icons8-web-16.png)",
+		"description": "add web icon to file"		
 	}
+
 }
