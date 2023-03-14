@@ -13,6 +13,7 @@
 - [Document Management](#document-management)
 - [File Management](#file-management)
 - [Home Automation](#home-automation)
+- [Image Processing](#image-processing)
 - [Journaling](#journaling)
 - [Note Taking](#note-taking)
 - [Task Management](#task-management)
@@ -67,6 +68,11 @@ Let your device do the work for you.
 
 - [HomeControl Menu](https://apps.apple.com/us/app/homecontrol-menu-for-homekit/id1547121417) - trigger Home scenes from the menu bar | ![macOS](icons/icons8-mac-client.png)
 - [Home Assistant](https://www.home-assistant.io) | ![web](icons/icons8-web-16.png) ![macOS](icons/icons8-mac-client.png) ![iOS](icons/icons8-iphone.png) | Ep. 97
+
+## Image Processing
+
+- [ImageMagick] - convert, edit, manipulate digital images | | ![macOS](icons/icons8-mac-client.png) | Ep. 122
+- [Retrobatch](https://flyingmeat.com/retrobatch/) - image processing workflow tool | ![macOS](icons/icons8-mac-client.png) | Ep. 122
 
 ## Journaling
 
