@@ -136,6 +136,8 @@ Enter a snippet and it expands to whatever you want.
 - [Keyboard Maestro](https://www.keyboardmaestro.com/) | ![macOS](icons/icons8-mac-client.png) | Ep. 1, 79
 - [Micro.blog](https://micro.blog) - short form blogging platform | Ep. 79
 - [Noir](https://getnoir.app) - dark mode for Safari |
+- [Numbers](https://www.apple.com/numbers/) - Apple spreadsheet | ![iOS](icons/icons8-iphone.png) ![macOS](icons/icons8-mac-client.png)
+  ![web](icons/icons8-web-16.png) | Ep 1.
 - [Patterns](https://krillapps.com/patterns/) - the ultimate tool for working with regular expressions | ![macOS](icons/icons8-mac-client.png) | Ep. 96
 - [Streaks](https://streaksapp.com) | Ep. 79
 - [Timery](https://timeryapp.com/) - 3rd party front end for Toggl | ![macOS](icons/icons8-mac-client.png) ![iOS](icons/icons8-iphone.png)
