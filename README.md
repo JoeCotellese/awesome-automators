@@ -72,7 +72,7 @@ Let your device do the work for you.
 
 ## Image Processing
 
-- [ImageMagick] - convert, edit, manipulate digital images | | ![macOS](icons/icons8-mac-client.png) | Ep. 122
+- [ImageMagick](https://imagemagick.org/index.php) - convert, edit, manipulate digital images | | ![macOS](icons/icons8-mac-client.png) | Ep. 122
 - [Retrobatch](https://flyingmeat.com/retrobatch/) - image processing workflow tool | ![macOS](icons/icons8-mac-client.png) | Ep. 122
 
 ## Journaling
