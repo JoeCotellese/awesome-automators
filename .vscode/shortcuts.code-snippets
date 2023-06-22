@@ -1,37 +1,36 @@
 {
-	// Place your awesome-automators workspace snippets here. Each snippet is defined under a snippet name and has a scope, prefix, body and 
-	// description. Add comma separated ids of the languages where the snippet is applicable in the scope field. If scope 
-	// is left empty or omitted, the snippet gets applied to all languages. The prefix is what is 
-	// used to trigger the snippet and the body will be expanded and inserted. Possible variables are: 
-	// $1, $2 for tab stops, $0 for the final cursor position, and ${1:label}, ${2:another} for placeholders. 
-	// Placeholders with the same ids are connected.
-	// Example:
-	// "Print to console": {
-	// 	"scope": "javascript,typescript",
-	// 	"prefix": "log",
-	// 	"body": [
-	// 		"console.log('$1');",
-	// 		"$2"
-	// 	],
-	// 	"description": "Log output to console"
-	// }
-	"macOS icon": {
-		"scope": "markdown",
-		"prefix": "!macos",
-		"body": ["![macOS](icons/icons8-mac-client.png)", "$2"],
-		"description": "add macOS icon to file"
-	},
-	"iOS icon": {
-		"scope": "markdown",
-		"prefix": "!ios",
-		"body": "![iOS](icons/icons8-iphone.png)",
-		"description": "add macOS icon to file"		
-	},
-	"web icon": {
-		"scope": "markdown",
-		"prefix": "!web",
-		"body": "![web](icons/icons8-web-16.png)",
-		"description": "add web icon to file"		
-	}
-
+  // Place your awesome-automators workspace snippets here. Each snippet is defined under a snippet name and has a scope, prefix, body and
+  // description. Add comma separated ids of the languages where the snippet is applicable in the scope field. If scope
+  // is left empty or omitted, the snippet gets applied to all languages. The prefix is what is
+  // used to trigger the snippet and the body will be expanded and inserted. Possible variables are:
+  // $1, $2 for tab stops, $0 for the final cursor position, and ${1:label}, ${2:another} for placeholders.
+  // Placeholders with the same ids are connected.
+  // Example:
+  // "Print to console": {
+  // 	"scope": "javascript,typescript",
+  // 	"prefix": "log",
+  // 	"body": [
+  // 		"console.log('$1');",
+  // 		"$2"
+  // 	],
+  // 	"description": "Log output to console"
+  // }
+  "macOS icon": {
+    "scope": "markdown",
+    "prefix": "!macos",
+    "body": ["![macOS](icons/icons8-mac-client.png)", "$2"],
+    "description": "add macOS icon to file"
+  },
+  "iOS icon": {
+    "scope": "markdown",
+    "prefix": "!ios",
+    "body": "![iOS](icons/icons8-iphone.png)",
+    "description": "add macOS icon to file"
+  },
+  "web icon": {
+    "scope": "markdown",
+    "prefix": "!web",
+    "body": "![web](icons/icons8-web-16.png)",
+    "description": "add web icon to file"
+  }
 }
