@@ -8,29 +8,36 @@
 
 ## Contents
 
-- [Automation](#automation)
-- [Calculators](#calculators)
-- [Document Management](#document-management)
-- [File Management](#file-management)
-- [Home Automation](#home-automation)
-- [Image Processing](#image-processing)
-- [Journaling](#journaling)
-- [Note Taking](#note-taking)
-- [Task Management](#task-management)
-- [Shortcuts](#shortcuts)
-- [Text Editors](#text-editors)
-- [Text Expansion](#text-expansion)
-- [Window Managers](#window-managers)
-- [Miscellaneous](#miscellaneous)
+- [Awesome Automators ](#awesome-automators-)
+  - [Contents](#contents)
+  - [Automation](#automation)
+  - [Calculators](#calculators)
+  - [Calendaring](#calendaring)
+  - [Document Management](#document-management)
+  - [E-mail](#e-mail)
+  - [File Management](#file-management)
+  - [Home Automation](#home-automation)
+  - [Image Processing](#image-processing)
+  - [Journaling](#journaling)
+  - [Shortcuts](#shortcuts)
+  - [Task Management](#task-management)
+  - [Text Editors](#text-editors)
+  - [Text Expansion](#text-expansion)
+  - [Note Taking](#note-taking)
+  - [Window Managers](#window-managers)
+  - [Miscellaneous](#miscellaneous)
+  - [Hardware](#hardware)
+  - [Contribute](#contribute)
 
 ## Automation
 
 Let your device do the work for you.
 
 - [Alfred](https://www.alfredapp.com/) - Swiss army knife app could go in multiple categories. | ![macOS](icons/icons8-mac-client.png)
+- Automator - Apple's built in automation workflow tool | 
 - [Bunch](https://bunchapp.co) | ![macOS](icons/icons8-mac-client.png)
 - [FastScripts](https://redsweater.com/fastscripts/) - launch automation scripts from the menu bar | ![macOS](icons/icons8-mac-client.png) | Ep. 86
-- [Hazel](https://www.noodlesoft.com) | ![macOS](icons/icons8-mac-client.png) | Ep. 2, 4
+- [Hazel](https://www.noodlesoft.com) | ![macOS](icons/icons8-mac-client.png) | Ep. 2, 4, 8
 - [IFTTT](https://ifttt.com/) | ![web](icons/icons8-web-16.png) | Ep. 1,2
 - [Make](https://make.com) - From tasks and workflows to apps and systems, build and automate anything in one powerful visual platform. | ![web](icons/icons8-web-16.png) | Ep 117
 - [Launch Center Pro](https://apps.apple.com/us/app/launch-center-pro/id532016360) | ![iOS](icons/icons8-iphone.png)
@@ -47,7 +54,7 @@ Let your device do the work for you.
 - [Fantastical](https://flexibits.com/fantastical) - award winning calendar app | ![macOS](icons/icons8-mac-client.png) ![iOS](icons/icons8-iphone.png) | Ep. 1, 5
 
 ## Document Management
-
+- [DevonTHINK](https://www.devontechnologies.com/apps/devonthink) | ![macOS](icons/icons8-mac-client.png) ![iOS](icons/icons8-iphone.png) | Ep. 8
 - [Scanner Pro](https://readdle.com/scannerpro)
 - Scan Bar
 - [PDFPen](https://pdfpen.com) | ![macOS](icons/icons8-mac-client.png) ![iOS](icons/icons8-iphone.png)
@@ -84,8 +91,8 @@ Let your device do the work for you.
 - [Bypass](https://www.thoughtasylum.com/alfred/alfred_bypass_for_shortcuts/) - Alfred workflow for Shortcuts | ![macOS](icons/icons8-mac-client.png) | Ep. 98
 - [Logger](https://www.logger.rocks/) - Log text or images to the console and see them appear in realtime, as your shortcut runs. | ![macOS](icons/icons8-mac-client.png) ![iOS](icons/icons8-iphone.png) | Ep. 99
 - [Sharebot](https://apps.apple.com/us/app/sharebot-for-shortcuts/id1597340986) - ShareBot is the missing Share Extension for Shortcuts on macOS. It allows you to run any of your shortcuts on items like files, URLs or text shared from any app with share menu support like Finder, Safari, Twitter or Chrome. | ![macOS](icons/icons8-mac-client.png) | Ep. 99
+- [Textcase](https://textcase.app) - automatable text transformations | ![iOS](icons/icons8-iphone.png)
 - [Toolbox Pro](https://toolboxpro.app) - adds additional automation actions to Shortcuts | ![iOS](icons/icons8-iphone.png)
-
 ## Task Management
 
 - [Omnifocus](https://www.omnigroup.com/omnifocus/) - Taskmanager for pros | ![macOS](icons/icons8-mac-client.png) ![iOS](icons/icons8-iphone.png) | Ep. 5
@@ -94,7 +101,6 @@ Let your device do the work for you.
 - [TripListPro](https://apps.apple.com/us/app/triplist-packing-list-manager/id696726953) - manage your packing lists | ![iOS](icons/icons8-iphone.png) | Ep. 5
 
 ## Text Editors
-
 Need to muck about with text? Look here.
 
 - [BBEdit](https://www.barebones.com/products/bbedit/) ![macOS](icons/icons8-mac-client.png)
@@ -124,20 +130,20 @@ Enter a snippet and it expands to whatever you want.
 
 - [Moom](https://manytricks.com/moom/) | ![macOS](icons/icons8-mac-client.png)
 
-### Miscellaneous
+## Miscellaneous
 
 - [BetterTouchTool](https://folivora.ai)
+- [Cardhop](https://flexibits.com/cardhop) - contact management you'll want to use. ![macOS](icons/icons8-mac-client.png)
 - [Clockwise](https://www.getclockwise.com)| ![web](icons/icons8-web-16.png)
 - [Dark Noise](https://darknoise.app) | Ep. 79
 - [DataJar](https://datajar.app) - a place for Shortcuts to store and access data across automations. | ![iOS](icons/icons8-iphone.png) | Ep. 110
+- [Jump Desktop](https://www.jumpdesktop.com) | ![iOS](icons/icons8-iphone.png) | ![macOS](icons/icons8-mac-client.png)
 - [Just Press Record](https://www.openplanetsoftware.com/just-press-record/) | ![iOS](icons/icons8-iphone.png)
-- Infused | Ep. 79
 - [Karabiner-Elements](https://pqrs.org/osx/karabiner/) | ![macOS](icons/icons8-mac-client.png) | Ep. 79
 - [Keyboard Maestro](https://www.keyboardmaestro.com/) | ![macOS](icons/icons8-mac-client.png) | Ep. 1, 79
 - [Micro.blog](https://micro.blog) - short form blogging platform | Ep. 79
-- [Noir](https://getnoir.app) - dark mode for Safari |
+- [Noir](https://getnoir.app) - dark mode for Safari | ![iOS](icons/icons8-iphone.png)
 - [Numbers](https://www.apple.com/numbers/) - Apple spreadsheet | ![iOS](icons/icons8-iphone.png) ![macOS](icons/icons8-mac-client.png)
-  ![web](icons/icons8-web-16.png) | Ep 1.
 - [Patterns](https://krillapps.com/patterns/) - the ultimate tool for working with regular expressions | ![macOS](icons/icons8-mac-client.png) | Ep. 96
 - [Streaks](https://streaksapp.com) | Ep. 79
 - [Timery](https://timeryapp.com/) - 3rd party front end for Toggl | ![macOS](icons/icons8-mac-client.png) ![iOS](icons/icons8-iphone.png)
@@ -145,7 +151,7 @@ Enter a snippet and it expands to whatever you want.
 - [Trak.tv](https://trakt.tv) - track what TV and movies you watch | ![web](icons/icons8-web-16.png)
 - [Unclack](https://unclack.app/#/) - mute your mic while you type | ![macOS](icons/icons8-mac-client.png) | Ep. 86
 
-### Hardware
+## Hardware
 
 [FriXion Pens](https://www.pilotpen.us/categories/frixion-erasable-ink-pens/) - Erasable ink pens. | Ep. 96
 [Oura](https://ouraring.com/product/horizon-silver) - the most advanced, accurate smart ring available. | Ep. 112
