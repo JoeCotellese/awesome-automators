@@ -6,10 +6,10 @@
 >
 > Icons provided by [Icons8](https://icons8.com).
 
-## Contents
+## Content
 
 - [Awesome Automators ](#awesome-automators-)
-  - [Contents](#contents)
+  - [Content](#content)
   - [Automation](#automation)
   - [Calculators](#calculators)
   - [Calendaring](#calendaring)
@@ -93,6 +93,7 @@ Let your device do the work for you.
 - [Sharebot](https://apps.apple.com/us/app/sharebot-for-shortcuts/id1597340986) - ShareBot is the missing Share Extension for Shortcuts on macOS. It allows you to run any of your shortcuts on items like files, URLs or text shared from any app with share menu support like Finder, Safari, Twitter or Chrome. | ![macOS](icons/icons8-mac-client.png) | Ep. 99
 - [Textcase](https://textcase.app) - automatable text transformations | ![iOS](icons/icons8-iphone.png)
 - [Toolbox Pro](https://toolboxpro.app) - adds additional automation actions to Shortcuts | ![iOS](icons/icons8-iphone.png)
+
 ## Task Management
 
 - [Omnifocus](https://www.omnigroup.com/omnifocus/) - Taskmanager for pros | ![macOS](icons/icons8-mac-client.png) ![iOS](icons/icons8-iphone.png) | Ep. 5
@@ -117,6 +118,7 @@ Enter a snippet and it expands to whatever you want.
 - [TextExpander](https://textexpander.com) | ![macOS](icons/icons8-mac-client.png) ![iOS](icons/icons8-iphone.png) | Ep. 79
 - [Rocket](https://matthewpalmer.net/rocket/) | ![macOS](icons/icons8-mac-client.png)
 - [PopClip](https://pilotmoon.com/popclip/) - extensable tool for manipulating highlighted text | ![macOS](icons/icons8-mac-client.png) | Ep. 86
+- [Snippety](https://snippety.app) - quick access to text snippets | ![macOS](icons/icons8-mac-client.png) |  Ep. 145 
 
 ## Note Taking
 
@@ -125,6 +127,7 @@ Enter a snippet and it expands to whatever you want.
 - [GoodNotes](https://www.goodnotes.com) | ![macOS](icons/icons8-mac-client.png)
 - [Roam](https://roamresearch.com) | ![macOS](icons/icons8-mac-client.png)
 - [Notability](https://notability.com) - cross platform note taking app | ![macOS](icons/icons8-mac-client.png) ![iOS](icons/icons8-iphone.png)
+- [Notion](https://www.notion.so) | ![macOS](icons/icons8-mac-client.png) ![iOS](icons/icons8-iphone.png) ![web](icons/icons8-web-16.png) | Ep. 143
 
 ## Window Managers
 
@@ -132,6 +135,7 @@ Enter a snippet and it expands to whatever you want.
 
 ## Miscellaneous
 
+- [Airtable](https://airtable.com) - low code platform, spreadsheets on steroids | ![web](icons/icons8-web-16.png) | Ep. 128
 - [BetterTouchTool](https://folivora.ai)
 - [Cardhop](https://flexibits.com/cardhop) - contact management you'll want to use. ![macOS](icons/icons8-mac-client.png)
 - [Clockwise](https://www.getclockwise.com)| ![web](icons/icons8-web-16.png)
@@ -146,8 +150,8 @@ Enter a snippet and it expands to whatever you want.
 - [Numbers](https://www.apple.com/numbers/) - Apple spreadsheet | ![iOS](icons/icons8-iphone.png) ![macOS](icons/icons8-mac-client.png)
 - [Patterns](https://krillapps.com/patterns/) - the ultimate tool for working with regular expressions | ![macOS](icons/icons8-mac-client.png) | Ep. 96
 - [Streaks](https://streaksapp.com) | Ep. 79
-- [Timery](https://timeryapp.com/) - 3rd party front end for Toggl | ![macOS](icons/icons8-mac-client.png) ![iOS](icons/icons8-iphone.png)
-- [Toggl](https://timeryapp.com/) - Time tracking app | ![web](icons/icons8-web-16.png) ![macOS](icons/icons8-mac-client.png) ![iOS](icons/icons8-iphone.png)
+- [Timery](https://timeryapp.com/) - 3rd party front end for Toggl | ![macOS](icons/icons8-mac-client.png) ![iOS](icons/icons8-iphone.png) | Ep. 132
+- [Toggl](https://toggl.com) - Time tracking app | ![web](icons/icons8-web-16.png) ![macOS](icons/icons8-mac-client.png) ![iOS](icons/icons8-iphone.png) | Ep. 132
 - [Trak.tv](https://trakt.tv) - track what TV and movies you watch | ![web](icons/icons8-web-16.png)
 - [Unclack](https://unclack.app/#/) - mute your mic while you type | ![macOS](icons/icons8-mac-client.png) | Ep. 86
 
