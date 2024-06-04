@@ -23,6 +23,7 @@
   - [Task Management](#task-management)
   - [Text Editors](#text-editors)
   - [Text Expansion](#text-expansion)
+  - [Text Miscellaneous](#text-miscellaneous)
   - [Note Taking](#note-taking)
   - [Window Managers](#window-managers)
   - [Miscellaneous](#miscellaneous)
@@ -102,6 +103,7 @@ Let your device do the work for you.
 - [TripListPro](https://apps.apple.com/us/app/triplist-packing-list-manager/id696726953) - manage your packing lists | ![iOS](icons/icons8-iphone.png) | Ep. 5
 
 ## Text Editors
+
 Need to muck about with text? Look here.
 
 - [BBEdit](https://www.barebones.com/products/bbedit/) ![macOS](icons/icons8-mac-client.png)
@@ -116,9 +118,15 @@ Need to muck about with text? Look here.
 Enter a snippet and it expands to whatever you want.
 
 - [TextExpander](https://textexpander.com) | ![macOS](icons/icons8-mac-client.png) ![iOS](icons/icons8-iphone.png) | Ep. 79
-- [Rocket](https://matthewpalmer.net/rocket/) | ![macOS](icons/icons8-mac-client.png)
+- [Rocket](https://matthewpalmer.net/rocket/) - Mind-blowing emoji on your Mac. | ![macOS](icons/icons8-mac-client.png)
 - [PopClip](https://pilotmoon.com/popclip/) - extensable tool for manipulating highlighted text | ![macOS](icons/icons8-mac-client.png) | Ep. 86
 - [Snippety](https://snippety.app) - quick access to text snippets | ![macOS](icons/icons8-mac-client.png) |  Ep. 145 
+
+## Text Miscellaneous
+
+Helpful tools for manipulating text
+
+- [TextSoap](https://textsoap.com/mac/) - Powerful text transformations with just a click! | ![macOS](icons/icons8-mac-client.png) | Ep. 155
 
 ## Note Taking
 
