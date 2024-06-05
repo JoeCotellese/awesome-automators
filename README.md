@@ -55,6 +55,7 @@ Let your device do the work for you.
 - [Fantastical](https://flexibits.com/fantastical) - award winning calendar app | ![macOS](icons/icons8-mac-client.png) ![iOS](icons/icons8-iphone.png) | Ep. 1, 5
 
 ## Document Management
+
 - [DevonTHINK](https://www.devontechnologies.com/apps/devonthink) | ![macOS](icons/icons8-mac-client.png) ![iOS](icons/icons8-iphone.png) | Ep. 8
 - [Scanner Pro](https://readdle.com/scannerpro)
 - Scan Bar
@@ -68,10 +69,12 @@ Let your device do the work for you.
 
 ## File Management
 
-- [Default Folder X](https://stclairsoft.com/DefaultFolderX/) - Open and Save dialog enhancements | ![macOS](icons/icons8-mac-client.png)
-- [ForkLift](https://binarynights.com) | ![macOS](icons/icons8-mac-client.png) | Ep. 79
+- [Default Folder X](https://stclairsoft.com/DefaultFolderX/) - Open and Save dialog enhancements | ![macOS](icons/icons8-mac-client.png) | Ep. 150
+- [Dropzone](https://aptonic.com) - improves drag and drop | ![macOS](icons/icons8-mac-client.png) | Ep. 150
+- [ForkLift](https://binarynights.com) | ![macOS](icons/icons8-mac-client.png) | Ep. 79, 150
+- [PathFinder](https://www.cocoatech.io/) | ![macOS](icons/icons8-mac-client.png) | Ep. 150
 - [Service Station](https://servicestation.menu) - customize your right click menu | ![macOS](icons/icons8-mac-client.png)
-- [Yoink](https://eternalstorms.at/yoink/mac/index.html) - simplify drag and drop | ![macOS](icons/icons8-mac-client.png)
+- [Yoink](https://eternalstorms.at/yoink/mac/index.html) - simplify drag and drop | ![macOS](icons/icons8-mac-client.png) | Ep. 150
 
 ## Home Automation
 
